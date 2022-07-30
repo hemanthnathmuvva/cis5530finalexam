@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 
-<title>Notepad.exe by Bryant Smith</title>
+<title>Notepad.exe by Hemanth nath Muvva</title>
 </head>
 
 <body>
@@ -33,7 +33,7 @@
         <p>Rhian Resnick rresnick1998</p>
 	<div>
 		Embed a youtube video here. (Share, Embed)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jIQ6UV2onyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/MJEM5eWWBBALinks to an external site." title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
         </div>
         <!-- please leave my link somewhere in your page, that is all I ask -->
